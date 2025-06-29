@@ -12,7 +12,7 @@ public class Main {
         int opcion;
 
         do {
-            System.out.println("Bienvenid@ al sistema: Gestión de clientes");
+            System.out.println("Bienvenid@ al aplicativo: Gestión de clientes");
             System.out.println("1. Agregar cliente");
             System.out.println("2. Listar clientes");
             System.out.println("3. Actualizar cliente");
